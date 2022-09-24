@@ -179,24 +179,24 @@ playlist_10 : "ᴘᴇɴᴀᴍʙᴀʜᴀɴ ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ\n\n{0
 playlist_11 : "ʙᴇʀʜᴀsɪʟ ᴍᴇɴɢʜᴀᴘᴜs ᴛʀᴇᴋ ᴀɴᴅᴀ."
 playlist_12 : "ɢᴀɢᴀʟ ᴍᴇɴɢʜᴀᴘᴜs ᴛʀᴇᴋ ᴀɴᴅᴀ."
 playlist_13 : "ᴍᴇɴɢʜᴀᴘᴜs sᴇʟᴜʀᴜʜ ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ ᴀɴᴅᴀ ᴅᴀʀɪ sᴇʀᴠᴇʀ."
-playlist_14 : "**Yakin ingin menghapus seluruh daftar putar?**\n\nAnda akan kehilangan daftar putar dan ini tidak dapat dipulihkan nanti."
-playlist_15 : "[Periksa Seluruh Daftar Putar]({0})"
-playlist_16 : "Daftar Putar Antri:"
-playlist_17 : "Posisi Antrian-"
-playlist_18 : "[Checkout Whole Queued Playlist]({0})\n\nPosisi Antrian Terakhir : **{1}**"
+playlist_14 : "**ʏᴀᴋɪɴ ɪɴɢɪɴ ᴍᴇɴɢʜᴀᴘᴜs sᴇʟᴜʀᴜʜ ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ?**\n\nᴀɴᴅᴀ ᴀᴋᴀɴ ᴋᴇʜɪʟᴀɴɢᴀɴ ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ ᴅᴀɴ ɪɴɪ ᴛɪᴅᴀᴋ ᴅᴀᴘᴀᴛ ᴅɪᴘᴜʟɪʜᴋᴀɴ ɴᴀɴᴛɪ."
+playlist_15 : "[ᴘᴇʀɪᴋsᴀ sᴇʟᴜʀᴜʜ ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ]({0})"
+playlist_16 : "ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ ᴀɴᴛʀɪ:"
+playlist_17 : "ᴘᴏsɪsɪ ᴀɴᴛʀɪᴀɴ-"
+playlist_18 : "[Checkout Whole Queued Playlist]({0})\n\nᴘᴏsɪsɪ ᴀɴᴛʀɪᴀɴ ᴛᴇʀᴀᴋʜɪʀ : **{1}**"
 
 #Playmode
-playmode_1 : "Pilih mode di mana Anda ingin memainkan kueri di dalam grup Anda[{0}]."
-playmode_2 : "Setelan diubah dan berhasil disimpan oleh {0}"
+playmode_1 : "ᴘɪʟɪʜ ᴍᴏᴅᴇ ᴅɪ ᴍᴀɴᴀ ᴀɴᴅᴀ ɪɴɢɪɴ ᴍᴇᴍᴀɪɴᴋᴀɴ ᴋᴜᴇʀɪ ᴅɪ ᴅᴀʟᴀᴍ ɢʀᴜᴘ ᴀɴᴅᴀ[{0}]."
+playmode_2 : "sᴇᴛᴇʟᴀɴ ᴅɪᴜʙᴀʜ ᴅᴀɴ ʙᴇʀʜᴀsɪʟ ᴅɪsɪᴍᴘᴀɴ ᴏʟᴇʜ {0}"
 
 #Sungai kecil
-str_1 : "Harap Berikan Link M3u8 atau Link Indeks."
-str_2 : "✅ Aliran Valid Terverifikasi\n\nHarap tunggu memproses tautan.."
-str_3 : "Tidak dapat melakukan streaming streaming langsung youtube. Format Langsung Tidak Ditemukan"
+str_1 : "ʜᴀʀᴀᴘ ʙᴇʀɪᴋᴀɴ ʟɪɴᴋ ᴍ3ᴜ8 ᴀᴛᴀᴜ ʟɪɴᴋ ɪɴᴅᴇᴋs."
+str_2 : "✅ ᴀʟɪʀᴀɴ ᴠᴀʟɪᴅ ᴛᴇʀᴠᴇʀɪꜰɪᴋᴀsɪ\n\nʜᴀʀᴀᴘ ᴛᴜɴɢɢᴜ ᴍᴇᴍᴘʀᴏsᴇs ᴛᴀᴜᴛᴀɴ.."
+str_3 : "ᴛɪᴅᴀᴋ ᴅᴀᴘᴀᴛ ᴍᴇʟᴀᴋᴜᴋᴀɴ sᴛʀᴇᴀᴍɪɴɢ sᴛʀᴇᴀᴍɪɴɢ ʟᴀɴɢsᴜɴɢ ʏᴏᴜᴛᴜʙᴇ. ꜰᴏʀᴍᴀᴛ ʟᴀɴɢsᴜɴɢ ᴛɪᴅᴀᴋ ᴅɪᴛᴇᴍᴜᴋᴀɴ"
 
 #TopPlay
-tracks_1 : "**Memproses {0} Daftar Putar 10 Teratas**\nIni bisa memakan waktu beberapa menit (sekitar 3-4 menit).. Harap Tunggu...\n\n**👤Diminta Oleh:** {1}\ n\nPeriksa 10 lagu teratas menurut /stats"
-tracks_2 : "**Error**\n\nTidak ada **{0} Top 10 Playlist** di server bot. Silakan coba playlist lain"
+tracks_1 : "**ᴍᴇᴍᴘʀᴏsᴇs {0} ᴅᴀꜰᴛᴀʀ ᴘᴜᴛᴀʀ 10 ᴛᴇʀᴀᴛᴀs**\nɪɴɪ ʙɪsᴀ ᴍᴇᴍᴀᴋᴀɴ ᴡᴀᴋᴛᴜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴇɴɪᴛ(sekitar 3-4 menit).. ʜᴀʀᴀᴘ ᴛᴜɴɢɢᴜ...\n\n**👤ᴅɪᴍɪɴᴛᴀ ᴏʟᴇʜ:** {1}\ n\nᴘᴇʀɪᴋsᴀ 10 ʟᴀɢᴜ ᴛᴇʀᴀᴛᴀs ᴍᴇɴᴜʀᴜᴛ /stats"
+tracks_2 : "**ᴇʀʀᴏʀ**\n\nᴛɪᴅᴀᴋ ᴀᴅᴀ **{0} ᴛᴏᴘ 10 ᴘʟᴀʏʟɪsᴛ** ᴅɪ sᴇʀᴠᴇʀ ʙᴏᴛ. sɪʟᴀᴋᴀɴ ᴄᴏʙᴀ ᴘʟᴀʏʟɪsᴛ ʟᴀɪɴ"
 
 # PERALATAN
 
@@ -207,28 +207,28 @@ lyrics_3 : "❌ Gagal mengambil lirik😭.\n\n💡**Mencoba Mencari:** {0}"
 lyrics_4 : "Klik tombol di bawah ini dan cari lirik untuk menghindari pencarian lirik jenis spam yang panjang."
 
 #Ping
-ping_1 : "Pong!!!!!"
-ping_2 : "**Pong!**\n`⚡{1} ms`\n\n<b><u> System Stats:</u></b>\nUptime : {2} \nRam : {4} \nCpu : {4} \nDisk : {3}"
+ping_1 : "ᴘᴏɴɢ!!!!!"
+ping_2 : "**ᴘᴏɴɢ!**\n`⚡{1} ms`\n\n<b><u> sʏsᴛᴇᴍ sᴛᴀᴛs:</u></b>\nᴜᴘᴛɪᴍᴇ : {2} \nʀᴀᴍ : {4} \nᴄᴘᴜ : {4} \nᴅɪsᴋ : {3}"
 
 
 # Lagu
-song_1 : "Anda dapat mengunduh Musik atau Video dari YouTube hanya dalam obrolan pribadi. Silakan mulai saya dalam obrolan pribadi."
-song_2 : "**Penggunaan:**\n\n/song [Nama Musik] atau [Tautan YouTube]"
-song_3 : "Live Link Detected. Saya tidak bisa mendownload video live youtube."
-song_4 : "**🔗Title:**- {0}\n\nPilih jenis yang ingin Anda unduh."
-song_5 : "Bukan Tautan Youtube yang valid"
-song_6 : "Mendapatkan Format.. \n\nMohon Tunggu.."
-song_7 : "Gagal mendapatkan format yang tersedia untuk video. Silakan coba trek lain."
-song_8 : "Pengunduhan Dimulai\n\nKecepatan pengunduhan mungkin lambat. Harap tunggu.."
-song_9 : "Gagal mendownload lagu dari Youtube-DL\n\n**Alasan:** {0}"
-song_10 : "Gagal mengunggah telegram dari server."
-song_11 : "Pengunggahan Dimulai\n\nKecepatan pengunggahan mungkin lambat. Harap tunggu sebentar.."
+song_1 : "ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢᴜɴᴅᴜʜ ᴍᴜsɪᴋ ᴀᴛᴀᴜ ᴠɪᴅᴇᴏ ᴅᴀʀɪ ʏᴏᴜᴛᴜʙᴇ ʜᴀɴʏᴀ ᴅᴀʟᴀᴍ ᴏʙʀᴏʟᴀɴ ᴘʀɪʙᴀᴅɪ. sɪʟᴀᴋᴀɴ ᴍᴜʟᴀɪ sᴀʏᴀ ᴅᴀʟᴀᴍ ᴏʙʀᴏʟᴀɴ ᴘʀɪʙᴀᴅɪ."
+song_2 : "**ᴘᴇɴɢɢᴜɴᴀᴀɴ:**\n\n/sᴏɴɢ [Nama Musik] ᴀᴛᴀᴜ [Tautan YouTube]"
+song_3 : "ʟɪᴠᴇ ʟɪɴᴋ ᴅᴇᴛᴇᴄᴛᴇᴅ. sᴀʏᴀ ᴛɪᴅᴀᴋ ʙɪsᴀ ᴍᴇɴᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ʟɪᴠᴇ ʏᴏᴜᴛᴜʙᴇ."
+song_4 : "**🔗ᴛɪᴛʟᴇ:**- {0}\n\nᴘɪʟɪʜ ᴊᴇɴɪs ʏᴀɴɢ ɪɴɢɪɴ ᴀɴᴅᴀ ᴜɴᴅᴜʜ."
+song_5 : "ʙᴜᴋᴀɴ ᴛᴀᴜᴛᴀɴ ʏᴏᴜᴛᴜʙᴇ ʏᴀɴɢ ᴠᴀʟɪᴅ"
+song_6 : "ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ ꜰᴏʀᴍᴀᴛ.. \n\nᴍᴏʜᴏɴ ᴛᴜɴɢɢᴜ.."
+song_7 : "ɢᴀɢᴀʟ ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ ꜰᴏʀᴍᴀᴛ ʏᴀɴɢ ᴛᴇʀsᴇᴅɪᴀ ᴜɴᴛᴜᴋ ᴠɪᴅᴇᴏ. sɪʟᴀᴋᴀɴ ᴄᴏʙᴀ ᴛʀᴇᴋ ʟᴀɪɴ."
+song_8 : "ᴘᴇɴɢᴜɴᴅᴜʜᴀɴ ᴅɪᴍᴜʟᴀɪ\n\nᴋᴇᴄᴇᴘᴀᴛᴀɴ ᴘᴇɴɢᴜɴᴅᴜʜᴀɴ ᴍᴜɴɢᴋɪɴ ʟᴀᴍʙᴀᴛ. ʜᴀʀᴀᴘ ᴛᴜɴɢɢᴜ.."
+song_9 : "ɢᴀɢᴀʟ ᴍᴇɴᴅᴏᴡɴʟᴏᴀᴅ ʟᴀɢᴜ ᴅᴀʀɪ ʏᴏᴜᴛᴜʙᴇ-ᴅʟ\n\n**ᴀʟᴀsᴀɴ:** {0}"
+song_10 : "ɢᴀɢᴀʟ ᴍᴇɴɢᴜɴɢɢᴀʜ ᴛᴇʟᴇɢʀᴀᴍ ᴅᴀʀɪ sᴇʀᴠᴇʀ."
+song_11 : "ᴘᴇɴɢᴜɴɢɢᴀʜᴀɴ ᴅɪᴍᴜʟᴀɪ\n\nᴋᴇᴄᴇᴘᴀᴛᴀɴ ᴘᴇɴɢᴜɴɢɢᴀʜᴀɴ ᴍᴜɴɢᴋɪɴ ʟᴀᴍʙᴀᴛ. ʜᴀʀᴀᴘ ᴛᴜɴɢɢᴜ sᴇʙᴇɴᴛᴀʀ.."
 
 # Alat - Antrian
-queue_1 : "Mohon Tunggu..Mengambil Antrian.."
-queue_2 : "Tidak ada trek di dalam Antrian."
-queue_3 : "<u>**Trek Antrian:</u>** [Lihat Trek Antrian Lainnya Dari Sini]({0})"
-queue_4 : "⏳ Ditambahkan ke Antrian di **#{0}\n\n📀 Judul:** {1}\n**⏰ Durasi:** {2}\n🧸 **Ditambahkan Oleh:** {3}"
+queue_1 : "ᴍᴏʜᴏɴ ᴛᴜɴɢɢᴜ..ᴍᴇɴɢᴀᴍʙɪʟ ᴀɴᴛʀɪᴀɴ.."
+queue_2 : "ᴛɪᴅᴀᴋ ᴀᴅᴀ ᴛʀᴇᴋ ᴅɪ ᴅᴀʟᴀᴍ ᴀɴᴛʀɪᴀɴ."
+queue_3 : "<u>**ᴛʀᴇᴋ ᴀɴᴛʀɪᴀɴ:</u>** [Lihat Trek Antrian Lainnya Dari Sini]({0})"
+queue_4 : "⏳ ᴅɪᴛᴀᴍʙᴀʜᴋᴀɴ ᴋᴇ ᴀɴᴛʀɪᴀɴ ᴅɪ **#{0}\n\n📀 Judul:** {1}\n**⏰ Durasi:** {2}\n🧸 **Ditambahkan Oleh:** {3}"
 queue_5 : "Hanya satu track di dalam antrian, Silahkan tambahkan lagi untuk check list"
 
 # Semua Saluran Streaming
